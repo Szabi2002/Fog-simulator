@@ -1,1 +1,2 @@
-# Fog-simulator
+# Nagynemes Szabolcs - Köd szimulátorok közötti konvertáló modul továbbfejlesztése
+
